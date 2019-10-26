@@ -11,4 +11,4 @@ In this paper, style transfer uses the features found in the 19-layer VGG Networ
 git clone https://github.com/keshav787/cnn-style-transfer.git  
 ```  
  2. Install all the dependencies    
- 3. Follow Instructions in [Style_Transfer_cnn.ipynb](https://github.com/keshav787/cnn-style-transfer.git/blob/master/Sentiment_Classification.ipynb)  
+ 3. Follow Instructions in [cnn_Style_Transfer.ipynb](https://github.com/keshav787/cnn-style-transfer/blob/master/cnn_Style_Transfer.ipynb)  
